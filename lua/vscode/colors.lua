@@ -84,6 +84,7 @@ local generate = function ()
 			vscCursorLight = '#767676',
 			vscSelection = '#ADD6FF',
 			vscLineNumber = '#098658',
+			vscNonText = '#AED7C8',
 
 			vscDiffRedDark = '#FFCCCC',
 			vscDiffRedLight = '#FFA3A3',
